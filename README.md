@@ -16,13 +16,14 @@ ___
 
 ## Variables & Constants
 ### `var` & `const`
-- `touch 01_variables/main.go` [01_variables/main.go](01_variables/main.go)
+- `mkdir -p 01_variables && touch 01_variables/main.go` [01_variables/main.go](01_variables/main.go)
 - `go run 01_variables/main.go`
 
 ___
+
 ## Data Types
 ### `Integer` (bilangan bulat)
-- `touch 02_number/main.go` [02_number/main.go](02_number/main.go)
+- `mkdir -p 02_number && touch 02_number/main.go` [02_number/main.go](02_number/main.go)
 - `go run 02_number/main.go`
 
 #### `Signed Integer`
@@ -59,11 +60,11 @@ ___
 | `complex128` | 128 bit | (Real 64-bit + Imaginary 64-bit) |
 
 ### `Boolean` (true/false)
-- `touch 03_boolean/main.go` [03_boolean/main.go](03_boolean/main.go)
+- `mkdir -p 03_boolean && touch 03_boolean/main.go` [03_boolean/main.go](03_boolean/main.go)
 - `go run 03_boolean/main.go`
 
 ### `String`
-- `touch 04_string/main.go` [04_string/main.go](04_string/main.go)
+- `mkdir -p 04_string && touch 04_string/main.go` [04_string/main.go](04_string/main.go)
 - `go run 04_string/main.go`
 
 #### `string operation`
@@ -76,3 +77,6 @@ ___
 
 ___
 
+## Type Conversion (Cast)
+- `mkdir -p 05_type_conversion && touch 05_type_conversion/main.go` [05_type_conversion/main.go](05_type_conversion/main.go)
+- `go run 05_type_conversion/main.go`
