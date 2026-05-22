@@ -80,3 +80,23 @@ ___
 ## Type Conversion (Cast)
 - `mkdir -p 05_type_conversion && touch 05_type_conversion/main.go` [05_type_conversion/main.go](05_type_conversion/main.go)
 - `go run 05_type_conversion/main.go`
+
+___
+
+## Arrays
+- `mkdir -p 06_arrays && touch 06_arrays/main.go` [06_arrays/main.go](06_arrays/main.go)
+- `go run 06_arrays/main.go`
+
+### Function Arrays
+- `mkdir -p 07_function_arrays && touch 07_function_arrays/main.go` [07_function_arrays/main.go](07_function_arrays/main.go)
+- `go run 07_function_arrays/main.go`
+
+| Keyword | Deskripsi | Contoh Singkat |
+|-----|-----|-----|
+| `len(array)` | Menghitung jumlah elemen dalam array | `len(arr) → 5` |
+| `range` | Digunakan dalam loop untuk mengambil index dan value | `for i, v := range arr {}` |
+| `Index (arr[i])` | Mengambil atau mengubah nilai pada index tertentu | `arr[0] = 10` |
+| `==` | Membandingkan dua array, apakah sama panjang dan isinya sama | `arr1 == arr2 → true/false` |
+| `!=` | Membandingkan dua array, apakah berbeda | `arr1 != arr2 → true/false` |
+
+___
