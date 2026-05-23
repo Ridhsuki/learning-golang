@@ -1,6 +1,4 @@
 ## Slice
-- `mkdir -p 08_slice && touch 08_slice/main.go` [08_slice/main.go](08_slice/main.go)
-- `go run 08_slice/main.go`
 
 | Cara Membuat Slice | Penjelasan | Contoh Kode |
 |-----|-----|-----|

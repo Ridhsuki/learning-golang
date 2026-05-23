@@ -88,8 +88,6 @@ ___
 - `go run 06_arrays/main.go`
 
 ### Function Arrays
-- `mkdir -p 07_function_arrays && touch 07_function_arrays/main.go` [07_function_arrays/main.go](07_function_arrays/main.go)
-- `go run 07_function_arrays/main.go`
 
 | Keyword | Deskripsi | Contoh Singkat |
 |-----|-----|-----|
@@ -101,8 +99,8 @@ ___
 
 ___
 ## Slice
-- `mkdir -p 08_slice && touch 08_slice/main.go` [08_slice/main.go](08_slice/main.go)
-- `go run 08_slice/main.go`
+- `mkdir -p 07_slice && touch 07_slice/main.go` [07_slice/main.go](07_slice/main.go)
+- `go run 07_slice/main.go`
 
 | Cara Membuat Slice | Penjelasan | Contoh Kode |
 |-----|-----|-----|
